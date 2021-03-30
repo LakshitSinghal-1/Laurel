@@ -22,7 +22,7 @@ pycparser==2.19
 pycrypto==2.6.1
 pyflakes==1.6.0
 PyJWT==1.7.1
-pyxdg==0.25
+pyxdg==0.26
 redis==3.2.1
 SecretStorage==3.1.1
 six==1.12.0
